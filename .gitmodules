@@ -13,3 +13,18 @@
 [submodule "SynDeepLesion_hongwang01/OSCNet"]
 	path = SynDeepLesion_hongwang01/OSCNet
 	url = https://github.com/hongwang01/OSCNet.git
+[submodule "LEAP_sinogram_replacement/LEAP"]
+	path = LEAP_sinogram_replacement/LEAP
+	url = https://github.com/LLNL/LEAP.git
+[submodule "untested_Repos/rise-mar"]
+	path = untested_Repos/rise-mar
+	url = https://github.com/Masaaki-75/rise-mar.git
+[submodule "untested_Repos/DuDoDp-MAR"]
+	path = untested_Repos/DuDoDp-MAR
+	url = https://github.com/DeepXuan/DuDoDp-MAR.git
+[submodule "untested_Repos/adn"]
+	path = untested_Repos/adn
+	url = https://github.com/liaohaofu/adn.git
+[submodule "untested_Repos/CNN-MAR"]
+	path = untested_Repos/CNN-MAR
+	url = https://github.com/yanbozhang007/CNN-MAR.git
