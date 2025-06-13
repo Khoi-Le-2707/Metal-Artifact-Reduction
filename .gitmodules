@@ -1,0 +1,15 @@
+[submodule "SynDeepLesion_hongwang01/InDuDoNet"]
+	path = SynDeepLesion_hongwang01/InDuDoNet
+	url = https://github.com/hongwang01/InDuDoNet.git
+[submodule "SynDeepLesion_hongwang01/InDuDoNet_plus"]
+	path = SynDeepLesion_hongwang01/InDuDoNet_plus
+	url = https://github.com/hongwang01/InDuDoNet_plus.git
+[submodule "SynDeepLesion_hongwang01/DICDNet"]
+	path = SynDeepLesion_hongwang01/DICDNet
+	url = https://github.com/hongwang01/DICDNet.git
+[submodule "SynDeepLesion_hongwang01/ACDNet"]
+	path = SynDeepLesion_hongwang01/ACDNet
+	url = https://github.com/hongwang01/ACDNet.git
+[submodule "SynDeepLesion_hongwang01/OSCNet"]
+	path = SynDeepLesion_hongwang01/OSCNet
+	url = https://github.com/hongwang01/OSCNet.git
