@@ -17,12 +17,13 @@ for i = 1 : 10 % make FOV region of reconstruction image
 fov_region(:,:,i) = makecircle(zeros(420),420/2,420/2,208,208,1);
 end
 
-parameter_revision % loading geometry of system
+parameter % loading geometry of system
 
 %% STEP 1 : Truncation Correction
 
 sino_ori_ex = symmetric_mirroring(sino_ori,100);
 img_ori = FDK((single(sino_ori_ex)),geo_ex,angles,'filter','hann').*fov_region;
+angles_fov = angles;
 
 %% STEP 2 : Synthesizing FOV based sinogram by truncation corrected image
 sino_fov = Ax(single(img_ori),geo_fov,angles_fov,'interpolated');
