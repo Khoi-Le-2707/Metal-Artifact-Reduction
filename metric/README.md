@@ -4,7 +4,7 @@ This folder contains a MATLAB script (statistic.m) to evaluate the quality of MA
 
 The functions `ssim_SDL.m` and `psnr_SDL.m` used in this repository are adapted from:
 
-📎 [OSCNet/metric](SynDeepLesion_hongwang01/OSCNet)
+📎 [OSCNet](../SynDeepLesion_hongwang01/OSCNet)
 
 📝 Original author for SSIM: [Zhou Wang](https://www.ece.uwaterloo.ca/~z70wang/)  
 📄 License: See header in `ssim_SDL.m`  
