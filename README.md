@@ -5,8 +5,8 @@ This repository contains a collection of open-source Metal Artifact Reduction (M
 To better understand our overall strategy and how we approach solving the MAR problem, please refer to the following roadmap. It provides a structured overview and helps you navigate the project effectively:
 
 <p align="center">
-  <a href="roadmap.drawio.png">
-    <img src="roadmap.drawio.png" alt="Roadmap diagram" title="Click to view full-size" width="900">
+  <a href="images/roadmap.drawio.png">
+    <img src="images/roadmap.drawio.png" alt="Roadmap diagram" title="Click to view full-size" width="900">
   </a>
 </p>
 
@@ -18,8 +18,8 @@ To better understand our overall strategy and how we approach solving the MAR pr
 
 By following the [metric instructions](./metric/), we obtain the following evaluation results comparing different algorithms:
 <p align="center">
-  <a href="PSNR_SSIM_Plot.jpg">
-    <img src="PSNR_SSIM_Plot.jpg" alt="Comparison of MAR methods" title="Click to view full-size" width="900">
+  <a href="images/PSNR_SSIM_Plot.jpg">
+    <img src="images/PSNR_SSIM_Plot.jpg" alt="Comparison of MAR methods" title="Click to view full-size" width="900">
   </a>
 </p>
 
