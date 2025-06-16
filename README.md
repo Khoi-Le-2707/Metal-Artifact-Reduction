@@ -17,3 +17,10 @@ To better understand our overall strategy and how we approach solving the MAR pr
 ## Performance Evaluation
 
 By following the [metric instructions](./metric/), we obtain the following evaluation results comparing different algorithms:
+<p align="center">
+  <a href="PSNR_SSIM_Plot.jpg">
+    <img src="PSNR_SSIM_Plot.jpg" alt="Comparison of MAR methods" title="Click to view full-size" width="900">
+  </a>
+</p>
+
+<p align="center"><em>Figure 2: Comparison of MAR Methods with PSNR and SSIM.</em></p>
