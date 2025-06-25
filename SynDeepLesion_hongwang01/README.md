@@ -66,8 +66,8 @@ As we can see below, *Dual-Domain* methods require all of these variables, where
 ----------
 | Method | Domain | Original Link |
 |---|---|---|
-| InDuDoNet (**I**ntegrated **D**ual-**D**omain **N**etwork) | Dual-Domain | [https://github.com/hongwang01/InDuDoNet](https://github.com/hongwang01/InDuDoNet)|
-| InDuDoNet+ (**I**ntegrated **D**ual-**D**omain **N**etwork **Plus**) | Dual-Domain | [https://github.com/hongwang01/InDuDoNet_plus](https://github.com/hongwang01/InDuDoNet_plus)|
+| InDuDoNet (**I**ntegrated **D**ual-**D**omain **Net**work) | Dual-Domain | [https://github.com/hongwang01/InDuDoNet](https://github.com/hongwang01/InDuDoNet)|
+| InDuDoNet+ (**I**ntegrated **D**ual-**D**omain **Net**work **Plus**) | Dual-Domain | [https://github.com/hongwang01/InDuDoNet_plus](https://github.com/hongwang01/InDuDoNet_plus)|
 | DICDNet (**D**ual-domain **I**nformation **C**ollaboration-based **D**eep **Net**work)| Image-Domain | [https://github.com/hongwang01/DICDNet](https://github.com/hongwang01/DICDNet)|
 | ACDNet (**A**ttentive **C**ontextual **D**ual-domain **Net**work) | Image-Domain | [https://github.com/hongwang01/ACDNet](https://github.com/hongwang01/ACDNet)|
 | OSCNet (**O**verlapped **S**pectrum-based **C**ontext-aware **Net**work) | Image-Domain | [https://github.com/hongwang01/OSCNet](https://github.com/hongwang01/OSCNet)|
